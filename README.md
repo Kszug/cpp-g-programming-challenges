@@ -7,3 +7,4 @@
 10 - Todo list \
 44 - FizzBuzz \
 45 - Reverse Polish Notation Calculator \
+59 - Ceasar Cipher Cracker
